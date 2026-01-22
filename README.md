@@ -1,2 +1,5 @@
 # Oop-Project
-My first github repsository.
+
+Hello!
+This is my first github repository.
+Author - Kushal Aryal
